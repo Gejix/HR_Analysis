@@ -1,3 +1,19 @@
+# Executive Summary
+In our ever-changing world, employees face various challenges, and all these attrition stand out the most as this is one of the significant observations in today's workforce. Despite the external changes to a company, attrition is a critical player in the internal environment of any company. Attrition is the percentage of employees that choose to leave per year compared to those who wish to stay. This is the gradual depletion of employee size over time. It is termed turnover when there is a gap in the hiring-to-resignation ratio. Employee attrition is the resignation, retirement or in any instance where there is a managerial decision not to rehire for a particular position. The greatest fear of any employer is to spend short amounts of resources on training an employee only for him/her to up and leave the following year without giving an equivalent of the worth spent on their training. This action creates a financial and technical vacuum in the company's workforce strength. Human resource personnel find this one of the most significant difficulties. Human resource managers are always at managers' disposal once they are highly skilled in identifying employee attrition, as this is one of their steps to reducing its percentage within their company. Employees leave for several reasons, most of which are generic across a sector, but most times, the key reasons are particular to the firm in question. Most of these reasons are undisclosed, ranging from a variety of reasons such as job security, financial satisfaction, growth on a career path, supervisory concerns, personal issues and sometimes the urge for more significant challenges. This project seeks to highlight the key reasons why employee attrition occurs, to begin with, and what areas Management can strengthen or explore to achieve a better retention rate. 
+This report covered seven distinct areas in which attrition can arise. It highlights proper evaluations to determine the deductions from each of these sectors and how they affect employee attrition. In turn, the turnover rate was showcased from inception (Figure 4) and it clearly shows that the turnover rate spiralled out of control thirteen years ago and has never returned to the 20% mark ever since then. Hyacinth Parmarcitical stands at 32% turnover, beyond the  20% acceptance mark, clearly showing a strain on the workforce.
+
+## Introduction
+Employee attrition is essential in the 21st century as the global market is moving from the company mindset to focusing on the individual. This has caused a shift in power dynamics hence the need for companies to focus on their employees, as it is known that they are the most priced possession of the company. Because this day, individuals go out of their way to develop skill and discipline, foremost adding value to themselves before projecting this worth on the company in terms of amount and worth. This has made it inevitable to create a stable and developing workforce. This can be attributed to attrition as its rise over the years can be deduced directly or indirectly from these citations, making it inherently difficult for Human resource managers (HRM). However, attrition has some positives, as it makes room for constantly changing ideas.
+Attrition is a percentage that can encompass some positives. A high attrition percentage mandates the company's Managerial team to invest in employees. The problem comes when this ratio exceeds a threshold where the outgoing is more than the incoming. On either side of the spectrum, time and money must be spent to keep or employ an individual who can never be transformed into dividends if the attrition percentage is high.
+There has been a falling out between employers and employees over the years, and stories have been passed down by word of mouth and observation of previous members of the older workforce. Causing a negative space between the former and the latter, the breakdown that leads to employee loss is called attrition. Attrition cuts across all forms of industries and Job roles, as it is a naturally occurring effect. Apart from affecting goods and services, it also eats deeply into the company's reputation. Therefore, it is only sensible for management to approach attrition with a scientific mindset, dissect the various intricacies, and devise a feasible solution.
+This project focuses on the health sector as the Dataset concerns a pharmaceutical company with several departments and various job roles. Attrition is on a high and is in constant increase in this sector. Therefore, some insight can be drawn with respect to attrition in the medical sector; in places like India, attrition is at 30 to 40 percent in the pharmaceutical industry [1]. Some other sectors to closely observe would be the Tech industries. 
+## 1.1.	Data Set Source
+The data set used for the comprehensive analysis of this project is from Kaggle: 
+<a href = "https://www.kaggle.com/datasets/patelprashant/employee-attrition">Kaggle Link</a>
+The development and citation of this Dataset acknowledges other sites: 
+<a href= "https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/"> Watson blog link</a>
+
+
 # Appendix: Business Intelligent Report
 
 ## 1. Data Pre-processing and Cleaning
@@ -53,7 +69,7 @@ Figure 33:Date Columns
 <img src="/image/34.JPG" alt="Data importation" width="1000" height="300">
 Figure 34:Calendar Dataset
 
-<img src="/image/35.JPG" alt="Data importation" width="1000" height="300">
+<img src="/image/35.JPG" alt="Data importation" width="1000" height="100">
 Figure 35:Date Joined Column filtered for the earliest date
 
 <img src="/image/36.JPG" alt="Data importation" width="1000" height="300">
@@ -111,4 +127,4 @@ Figure 48: Fact tables
 Figure 49: Final Model
 
 
-Author: Gerald Juwah 
+Author: <a href = "https://github.com/Gejix">Gerald Juwah</a>
