@@ -3,7 +3,7 @@
 ## 1. Data Pre-processing and Cleaning
     The first step to preprocessing the Data is to import the HR Employee Attrition data; various methods exist. However, this data set was imported using the manual method. The "Get data" button was selected from the home tab, and the format of CSV was chosen, as this is the format of the data imported "WA_Fn-UseC_-HR-Employee-Attrition.csv". A dialogue pops up, requesting to load the data. The load is accepted, and data loading begins, see Figure 23. After successfully importing the Data, it shows no errors and is ready to be cleaned. "Transform data" is clicked on, and this displays the Data transformation terminal.
 
-<img src="/image/23.JPG" alt="Data importation" width="1000" height="200">
+<img src="/image/23.JPG" alt="Data importation" width="1000" height="300">
 Figure 23: Data importation
 
 Figure 24: Data successfully imported
