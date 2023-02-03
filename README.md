@@ -1,3 +1,6 @@
+# Employee Attrition and Turnover Dashboard
+<img src="/image/HR Dashbord.JPG" alt="App interface" width="400" height="600">
+
 # Overview
 This project was done using Power BI.
 See below the business proposal and the necessary data preprocessing steps that were taken. Find a PDF version of the dashboard in src.
