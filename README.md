@@ -1,5 +1,5 @@
 # Employee Attrition and Turnover Dashboard
-<img src="/image/HR Dashbord.JPG" alt="App interface" width="400" height="600">
+<img src="/image/HR Dashbord.JPG" alt="App interface" width="1000" height="600">
 
 # Overview
 This project was done using Power BI.
